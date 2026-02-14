@@ -1,6 +1,116 @@
 [
   {
     "id": 1,
+    "name": "Classic Margherita Pizza",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "time_minutes": 45,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["1 pizza dough ball (store-bought or homemade)", "1/2 cup pizza sauce", "8 oz fresh mozzarella cheese, sliced", "1/4 cup fresh basil leaves", "1 tbsp olive oil"],
+    "steps": ["Preheat oven to 475°F (245°C).", "Roll out the dough on a floured surface.", "Spread sauce evenly over the dough.", "Top with mozzarella slices.", "Bake for 10-12 minutes until crust is golden.", "Top with fresh basil and drizzle with olive oil before serving."],
+    "nutrition": {"calories": 600, "protein": "25g"}
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "cuisine": "Italian-American",
+    "difficulty": "Medium",
+    "time_minutes": 40,
+    "dietary": [],
+    "ingredients": ["1 pizza dough ball", "1/2 cup tomato sauce", "1.5 cups shredded mozzarella cheese", "20 slices pepperoni", "1 tsp dried oregano"],
+    "steps": ["Preheat oven to 475°F (245°C).", "Stretch dough onto a pizza stone or baking sheet.", "Spread sauce and sprinkle with cheese.", "Arrange pepperoni slices on top.", "Sprinkle with oregano.", "Bake for 12-15 minutes until cheese is bubbly."],
+    "nutrition": {"calories": 700, "protein": "30g"}
+  },
+  {
+    "id": 3,
+    "name": "Vegetarian Pizza",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "time_minutes": 45,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["1 pizza dough ball", "1/2 cup tomato sauce", "1 cup mozzarella cheese", "1/4 cup sliced bell peppers", "1/4 cup sliced mushrooms", "1/4 cup red onions", "1/4 cup black olives"],
+    "steps": ["Preheat oven to 475°F (245°C).", "Roll out dough and add sauce.", "Add cheese and arrange all vegetables on top.", "Bake for 12-15 minutes.", "Slice and serve hot."],
+    "nutrition": {"calories": 550, "protein": "20g"}
+  },
+  {
+    "id": 4,
+    "name": "Butter Chicken",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "time_minutes": 40,
+    "dietary": ["Gluten-Free"],
+    "ingredients": ["1 lb chicken breast, cubed", "1/2 cup yogurt", "2 tbsp butter", "1 cup tomato puree", "1/2 cup heavy cream", "1 tbsp garam masala", "1 tsp turmeric", "2 cloves garlic, minced"],
+    "steps": ["Marinate chicken in yogurt, garlic, and spices for 15 mins.", "Sear chicken in a pan with butter.", "Add tomato puree and simmer for 10 minutes.", "Stir in cream and simmer until thick.", "Serve with naan or rice."],
+    "nutrition": {"calories": 500, "protein": "28g"}
+  },
+  {
+    "id": 5,
+    "name": "Chana Masala",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "time_minutes": 30,
+    "dietary": ["Vegetarian", "Vegan", "Gluten-Free"],
+    "ingredients": ["2 cans (15oz) chickpeas, drained", "1 large onion, chopped", "2 tomatoes, pureed", "1 tbsp ginger-garlic paste", "1 tsp cumin seeds", "1 tsp coriander powder", "1/2 tsp chili powder", "fresh cilantro"],
+    "steps": ["Sauté cumin seeds and onions until golden.", "Add ginger-garlic paste and spices.", "Pour in tomato puree and cook until oil separates.", "Add chickpeas and a splash of water; simmer for 15 mins.", "Garnish with cilantro."],
+    "nutrition": {"calories": 350, "protein": "12g"}
+  },
+  {
+    "id": 6,
+    "name": "Palak Paneer",
+    "cuisine": "Indian",
+    "difficulty": "Medium",
+    "time_minutes": 35,
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "ingredients": ["1 lb fresh spinach", "8 oz paneer, cubed", "1 onion, finely chopped", "1 tomato, chopped", "1 tsp cumin", "1/2 tsp turmeric", "2 tbsp cream", "1 tbsp oil"],
+    "steps": ["Blanch spinach in boiling water for 2 mins, then blend into a paste.", "Fry paneer cubes until golden (optional).", "Sauté onion, tomato, and spices in oil.", "Add spinach puree and paneer; simmer for 5 mins.", "Stir in cream before serving."],
+    "nutrition": {"calories": 400, "protein": "18g"}
+  },
+  {
+    "id": 7,
+    "name": "Aloo Gobi",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "time_minutes": 25,
+    "dietary": ["Vegetarian", "Vegan", "Gluten-Free"],
+    "ingredients": ["1 head cauliflower, florets", "2 large potatoes, cubed", "1 tsp cumin seeds", "1/2 tsp turmeric", "1 tsp coriander powder", "1 green chili, slit", "fresh cilantro"],
+    "steps": ["Heat oil in a pan and add cumin seeds.", "Add potatoes and cauliflower; sauté for 5 minutes.", "Add turmeric, coriander, and chili.", "Cover and cook on low heat until veggies are tender (approx 15 mins).", "Garnish with cilantro."],
+    "nutrition": {"calories": 250, "protein": "6g"}
+  },
+  {
+    "id": 8,
+    "name": "Dal Tadka (Lentil Soup)",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "time_minutes": 30,
+    "dietary": ["Vegetarian", "Vegan", "Gluten-Free"],
+    "ingredients": ["1 cup yellow lentils (toor dal or masoor dal)", "3 cups water", "1 tsp turmeric", "2 tbsp ghee or oil", "1 tsp mustard seeds", "2 dried red chilies", "2 cloves garlic, sliced"],
+    "steps": ["Boil lentils with water and turmeric until soft.", "In a separate small pan, heat ghee.", "Add mustard seeds, garlic, and dried chilies (tempering).", "Pour the tempering over the cooked dal and mix."],
+    "nutrition": {"calories": 300, "protein": "15g"}
+  },
+  {
+    "id": 9,
+    "name": "Chicken Biryani",
+    "cuisine": "Indian",
+    "difficulty": "Hard",
+    "time_minutes": 60,
+    "dietary": ["Gluten-Free"],
+    "ingredients": ["2 cups basmati rice, soaked", "1 lb chicken, bone-in", "1/2 cup yogurt", "1 onion, fried until crispy", "1 tbsp biryani masala", "saffron strands", "mint leaves"],
+    "steps": ["Marinate chicken with yogurt and masala.", "Par-boil the rice with whole spices.", "Layer chicken and rice in a pot.", "Top with fried onions, saffron, and mint.", "Cover tight and cook on very low heat (dum) for 30 mins."],
+    "nutrition": {"calories": 600, "protein": "25g"}
+  },
+  {
+    "id": 10,
+    "name": "Masala Chai",
+    "cuisine": "Indian",
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "ingredients": ["2 cups water", "1 cup milk", "2 tsp black tea leaves", "1 inch ginger, crushed", "2 cardamom pods", "2 tsp sugar"],
+    "steps": ["Boil water with ginger and cardamom.", "Add tea leaves and sugar; boil for 2 mins.", "Add milk and bring to a boil again.", "Strain and serve hot."],
+    "nutrition": {"calories": 120, "protein": "4g"}
+  },
+  {
+    "id": 11,
     "name": "Avocado Toast with Egg",
     "cuisine": "American",
     "difficulty": "Easy",
@@ -11,7 +121,7 @@
     "nutrition": {"calories": 350, "protein": "12g"}
   },
   {
-    "id": 2,
+    "id": 12,
     "name": "Chicken Stir Fry",
     "cuisine": "Asian",
     "difficulty": "Medium",
@@ -22,7 +132,7 @@
     "nutrition": {"calories": 450, "protein": "30g"}
   },
   {
-    "id": 3,
+    "id": 13,
     "name": "Vegetable Pasta",
     "cuisine": "Italian",
     "difficulty": "Easy",
@@ -33,7 +143,7 @@
     "nutrition": {"calories": 400, "protein": "10g"}
   },
   {
-    "id": 4,
+    "id": 14,
     "name": "Grilled Cheese Sandwich",
     "cuisine": "American",
     "difficulty": "Easy",
@@ -44,7 +154,7 @@
     "nutrition": {"calories": 300, "protein": "8g"}
   },
   {
-    "id": 5,
+    "id": 15,
     "name": "Greek Salad",
     "cuisine": "Mediterranean",
     "difficulty": "Easy",
@@ -54,8 +164,8 @@
     "steps": ["Chop all vegetables into bite-sized pieces.", "Combine cucumber, tomatoes, onion, and olives in a large bowl.", "Sprinkle feta cheese on top.", "Drizzle with olive oil and toss gently."],
     "nutrition": {"calories": 250, "protein": "6g"}
   },
-   {
-    "id": 6,
+  {
+    "id": 16,
     "name": "Oatmeal with Fruit",
     "cuisine": "American",
     "difficulty": "Easy",
@@ -66,7 +176,7 @@
     "nutrition": {"calories": 200, "protein": "5g"}
   },
   {
-    "id": 7,
+    "id": 17,
     "name": "Beef Tacos",
     "cuisine": "Mexican",
     "difficulty": "Medium",
@@ -77,7 +187,7 @@
     "nutrition": {"calories": 500, "protein": "20g"}
   },
   {
-    "id": 8,
+    "id": 18,
     "name": "Caprese Salad",
     "cuisine": "Italian",
     "difficulty": "Easy",
@@ -88,7 +198,7 @@
     "nutrition": {"calories": 300, "protein": "15g"}
   },
   {
-    "id": 9,
+    "id": 19,
     "name": "Banana Smoothie",
     "cuisine": "American",
     "difficulty": "Easy",
@@ -99,7 +209,7 @@
     "nutrition": {"calories": 250, "protein": "8g"}
   },
   {
-    "id": 10,
+    "id": 20,
     "name": "Vegetable Fried Rice",
     "cuisine": "Asian",
     "difficulty": "Medium",
@@ -108,115 +218,5 @@
     "ingredients": ["2 cups cooked rice (cold)", "2 eggs, beaten", "1/2 cup peas", "1/2 cup diced carrots", "2 tbsp soy sauce", "1 small onion, diced", "1 tbsp sesame oil"],
     "steps": ["Heat oil in a wok. Scramble the eggs quickly and remove.", "Sauté onion, carrots, and peas until tender.", "Add the cold rice and soy sauce; stir fry on high heat.", "Mix the eggs back in and serve hot."],
     "nutrition": {"calories": 400, "protein": "10g"}
-  },
-  {
-    "id": 11,
-    "name": "Mushroom Risotto",
-    "cuisine": "Italian",
-    "difficulty": "Hard",
-    "time_minutes": 45,
-    "dietary": ["Vegetarian", "Gluten-Free"],
-    "ingredients": ["1 cup arborio rice", "8 oz mushrooms, sliced", "4 cups vegetable broth", "1 small onion, diced", "1/4 cup parmesan cheese", "2 tbsp butter", "1/2 cup white wine"],
-    "steps": ["Sauté onions and mushrooms in butter until soft.", "Add rice and toast for 1 minute. Add wine and stir until absorbed.", "Add warm broth one ladle at a time, stirring constantly until absorbed.", "Stir in parmesan cheese once rice is creamy."],
-    "nutrition": {"calories": 500, "protein": "12g"}
-  },
-  {
-    "id": 12,
-    "name": "Lentil Soup",
-    "cuisine": "Mediterranean",
-    "difficulty": "Medium",
-    "time_minutes": 40,
-    "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["1 cup dry lentils", "2 carrots, chopped", "2 celery stalks, chopped", "1 onion, diced", "4 cups vegetable broth", "1 tsp cumin"],
-    "steps": ["Sauté onion, carrots, and celery in a pot.", "Add lentils, broth, and cumin.", "Bring to a boil, then reduce heat and simmer for 30 minutes.", "Season with salt and pepper to taste."],
-    "nutrition": {"calories": 300, "protein": "18g"}
-  },
-  {
-    "id": 13,
-    "name": "Classic Pancakes",
-    "cuisine": "American",
-    "difficulty": "Medium",
-    "time_minutes": 20,
-    "dietary": ["Vegetarian"],
-    "ingredients": ["1.5 cups flour", "1.25 cups milk", "1 egg", "3 tsp baking powder", "1 tbsp sugar", "1 tbsp melted butter", "maple syrup"],
-    "steps": ["Whisk flour, baking powder, and sugar in a bowl.", "Mix milk, egg, and melted butter in another bowl.", "Combine wet and dry ingredients gently (do not overmix).", "Cook 1/4 cup batter per pancake on a hot griddle."],
-    "nutrition": {"calories": 400, "protein": "8g"}
-  },
-  {
-    "id": 14,
-    "name": "Chicken Caesar Salad",
-    "cuisine": "American",
-    "difficulty": "Medium",
-    "time_minutes": 15,
-    "dietary": [],
-    "ingredients": ["1 head romaine lettuce", "1 cup croutons", "1/2 cup parmesan shavings", "1/3 cup caesar dressing", "1 grilled chicken breast, sliced"],
-    "steps": ["Chop the lettuce into bite-sized pieces.", "Toss lettuce with the Caesar dressing.", "Top with grilled chicken slices, croutons, and parmesan.", "Serve immediately."],
-    "nutrition": {"calories": 450, "protein": "25g"}
-  },
-  {
-    "id": 15,
-    "name": "Hummus & Veggie Platter",
-    "cuisine": "Mediterranean",
-    "difficulty": "Easy",
-    "time_minutes": 10,
-    "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["1 can (15oz) chickpeas, drained", "1/4 cup tahini", "2 tbsp lemon juice", "1 clove garlic", "2 tbsp olive oil", "1 cucumber, sliced", "2 carrots, cut into sticks"],
-    "steps": ["Blend chickpeas, tahini, lemon juice, garlic, and olive oil until smooth.", "Transfer hummus to a serving bowl.", "Arrange cucumber and carrot sticks on a plate for dipping."],
-    "nutrition": {"calories": 300, "protein": "10g"}
-  },
-  {
-    "id": 16,
-    "name": "Spaghetti Bolognese",
-    "cuisine": "Italian",
-    "difficulty": "Medium",
-    "time_minutes": 45,
-    "dietary": [],
-    "ingredients": ["12 oz spaghetti", "1 lb ground beef", "2 cups tomato sauce", "1 onion, diced", "2 cloves garlic, minced", "1 tsp dried herbs (oregano/basil)"],
-    "steps": ["Boil spaghetti according to package directions.", "In a pan, brown the beef with onion and garlic.", "Stir in tomato sauce and herbs; simmer for 15 minutes.", "Serve sauce over drained pasta."],
-    "nutrition": {"calories": 600, "protein": "30g"}
-  },
-  {
-    "id": 17,
-    "name": "Homemade Guacamole",
-    "cuisine": "Mexican",
-    "difficulty": "Easy",
-    "time_minutes": 10,
-    "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["3 ripe avocados", "1/2 onion, finely chopped", "1 tomato, diced", "1/4 cup chopped cilantro", "1 lime, juiced", "tortilla chips"],
-    "steps": ["Slice avocados in half, remove pit, and scoop into a bowl.", "Mash with a fork to desired consistency.", "Stir in onion, tomato, cilantro, and lime juice.", "Serve with tortilla chips."],
-    "nutrition": {"calories": 350, "protein": "4g"}
-  },
-  {
-    "id": 18,
-    "name": "Baked Salmon with Asparagus",
-    "cuisine": "American",
-    "difficulty": "Medium",
-    "time_minutes": 25,
-    "dietary": ["Gluten-Free"],
-    "ingredients": ["2 salmon fillets", "1 bunch asparagus, trimmed", "1 lemon, sliced", "2 tbsp butter", "2 cloves garlic, minced"],
-    "steps": ["Preheat oven to 400°F (200°C).", "Place salmon and asparagus on a baking sheet.", "Top with butter, garlic, and lemon slices.", "Bake for 12-15 minutes until salmon flakes easily."],
-    "nutrition": {"calories": 500, "protein": "35g"}
-  },
-  {
-    "id": 19,
-    "name": "Classic Egg Salad",
-    "cuisine": "American",
-    "difficulty": "Easy",
-    "time_minutes": 15,
-    "dietary": ["Vegetarian", "Gluten-Free"],
-    "ingredients": ["6 hard-boiled eggs, peeled", "1/4 cup mayonnaise", "1 tsp mustard", "1 pinch salt", "1 pinch paprika", "bread slices (optional)"],
-    "steps": ["Chop the hard-boiled eggs.", "Mix in a bowl with mayonnaise, mustard, and salt.", "Sprinkle with paprika.", "Serve on bread or over lettuce."],
-    "nutrition": {"calories": 300, "protein": "12g"}
-  },
-  {
-    "id": 20,
-    "name": "Fresh Fruit Salad",
-    "cuisine": "Global",
-    "difficulty": "Easy",
-    "time_minutes": 10,
-    "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["1 apple, chopped", "1 orange, peeled and segmented", "1 cup grapes", "1 cup strawberries, halved", "1/2 cup melon cubes"],
-    "steps": ["Wash all fruit thoroughly.", "Chop fruit into uniform pieces.", "Combine in a large bowl and toss gently.", "Chill for 30 minutes before serving."],
-    "nutrition": {"calories": 150, "protein": "2g"}
   }
 ]
