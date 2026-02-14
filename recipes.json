@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Avocado Toast with Egg",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["bread", "avocado", "eggs", "salt", "pepper", "lemon"],
+    "steps": ["Toast the bread.", "Mash avocado with lemon juice, salt, and pepper.", "Spread on toast.", "Fry the egg and place on top."],
+    "nutrition": {"calories": 350, "protein": "12g"}
+  },
+  {
+    "id": 2,
+    "name": "Chicken Stir Fry",
+    "cuisine": "Asian",
+    "difficulty": "Medium",
+    "time_minutes": 30,
+    "dietary": ["Gluten-Free"],
+    "ingredients": ["chicken breast", "soy sauce", "broccoli", "carrots", "garlic", "rice", "oil"],
+    "steps": ["Cook rice.", "Slice chicken and veggies.", "Stir fry chicken in oil.", "Add veggies and soy sauce.", "Serve over rice."],
+    "nutrition": {"calories": 450, "protein": "30g"}
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Pasta",
+    "cuisine": "Italian",
+    "difficulty": "Easy",
+    "time_minutes": 20,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["pasta", "tomato sauce", "bell pepper", "onion", "olive oil", "basil"],
+    "steps": ["Boil pasta.", "Sauté onions and peppers in olive oil.", "Add tomato sauce and simmer.", "Mix pasta with sauce and top with basil."],
+    "nutrition": {"calories": 400, "protein": "10g"}
+  },
+  {
+    "id": 4,
+    "name": "Grilled Cheese Sandwich",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["bread", "cheese", "butter"],
+    "steps": ["Butter one side of each bread slice.", "Place cheese between unbuttered sides.", "Grill until golden brown."],
+    "nutrition": {"calories": 300, "protein": "8g"}
+  },
+  {
+    "id": 5,
+    "name": "Greek Salad",
+    "cuisine": "Mediterranean",
+    "difficulty": "Easy",
+    "time_minutes": 15,
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "ingredients": ["cucumber", "tomato", "onion", "feta cheese", "olives", "olive oil"],
+    "steps": ["Chop vegetables.", "Combine in a bowl.", "Top with feta and olives.", "Drizzle with olive oil."],
+    "nutrition": {"calories": 250, "protein": "6g"}
+  },
+   {
+    "id": 6,
+    "name": "Oatmeal with Fruit",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "time_minutes": 5,
+    "dietary": ["Vegetarian", "Vegan"],
+    "ingredients": ["oats", "water", "banana", "berries", "honey"],
+    "steps": ["Boil oats in water.", "Slice banana.", "Top oatmeal with fruit and honey."],
+    "nutrition": {"calories": 200, "protein": "5g"}
+  },
+  {
+    "id": 7,
+    "name": "Tacos",
+    "cuisine": "Mexican",
+    "difficulty": "Medium",
+    "time_minutes": 25,
+    "dietary": [],
+    "ingredients": ["ground beef", "taco shells", "lettuce", "cheese", "salsa", "seasoning"],
+    "steps": ["Cook beef with seasoning.", "Warm taco shells.", "Assemble tacos with toppings."],
+    "nutrition": {"calories": 500, "protein": "20g"}
+  },
+  {
+    "id": 8,
+    "name": "Caprese Salad",
+    "cuisine": "Italian",
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "ingredients": ["tomato", "mozzarella", "basil", "balsamic glaze", "olive oil"],
+    "steps": ["Slice tomatoes and mozzarella.", "Layer with basil leaves.", "Drizzle with oil and glaze."],
+    "nutrition": {"calories": 300, "protein": "15g"}
+  },
+  {
+    "id": 9,
+    "name": "Banana Smoothie",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "time_minutes": 5,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["banana", "milk", "yogurt", "honey"],
+    "steps": ["Blend all ingredients until smooth."],
+    "nutrition": {"calories": 250, "protein": "8g"}
+  },
+  {
+    "id": 10,
+    "name": "Fried Rice",
+    "cuisine": "Asian",
+    "difficulty": "Medium",
+    "time_minutes": 20,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["rice", "egg", "peas", "carrots", "soy sauce", "onion", "oil"],
+    "steps": ["Scramble eggs.", "Sauté onions and veggies.", "Add cooked rice and soy sauce.", "Mix in eggs."],
+    "nutrition": {"calories": 400, "protein": "10g"}
+  },
+  {
+    "id": 11,
+    "name": "Mushroom Risotto",
+    "cuisine": "Italian",
+    "difficulty": "Hard",
+    "time_minutes": 45,
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "ingredients": ["arborio rice", "mushrooms", "vegetable broth", "onion", "parmesan", "butter", "white wine"],
+    "steps": ["Sauté onions and mushrooms.", "Toast rice.", "Add wine then broth slowly while stirring.", "Finish with butter and parmesan."],
+    "nutrition": {"calories": 500, "protein": "12g"}
+  },
+  {
+    "id": 12,
+    "name": "Lentil Soup",
+    "cuisine": "Mediterranean",
+    "difficulty": "Medium",
+    "time_minutes": 40,
+    "dietary": ["Vegan", "Gluten-Free"],
+    "ingredients": ["lentils", "carrots", "celery", "onion", "vegetable broth", "cumin"],
+    "steps": ["Sauté veggies.", "Add lentils and broth.", "Simmer until lentils are soft.", "Season with cumin."],
+    "nutrition": {"calories": 300, "protein": "18g"}
+  },
+  {
+    "id": 13,
+    "name": "Pancakes",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "time_minutes": 20,
+    "dietary": ["Vegetarian"],
+    "ingredients": ["flour", "milk", "egg", "baking powder", "sugar", "butter", "syrup"],
+    "steps": ["Mix dry and wet ingredients separately.", "Combine gently.", "Cook on griddle.", "Serve with syrup."],
+    "nutrition": {"calories": 400, "protein": "8g"}
+  },
+  {
+    "id": 14,
+    "name": "Caesar Salad",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "time_minutes": 15,
+    "dietary": [],
+    "ingredients": ["romaine lettuce", "croutons", "parmesan", "caesar dressing", "chicken breast"],
+    "steps": ["Cook chicken.", "Chop lettuce.", "Toss with dressing, croutons, and cheese.", "Top with chicken."],
+    "nutrition": {"calories": 450, "protein": "25g"}
+  },
+  {
+    "id": 15,
+    "name": "Hummus & Veggies",
+    "cuisine": "Mediterranean",
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "dietary": ["Vegan", "Gluten-Free"],
+    "ingredients": ["chickpeas", "tahini", "lemon", "garlic", "olive oil", "cucumber", "carrot"],
+    "steps": ["Blend chickpeas, tahini, lemon, garlic, and oil.", "Slice veggies.", "Serve dip with veggies."],
+    "nutrition": {"calories": 300, "protein": "10g"}
+  },
+  {
+    "id": 16,
+    "name": "Spaghetti Bolognese",
+    "cuisine": "Italian",
+    "difficulty": "Medium",
+    "time_minutes": 45,
+    "dietary": [],
+    "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "herbs"],
+    "steps": ["Cook pasta.", "Brown beef with onion and garlic.", "Add sauce and herbs.", "Simmer and serve over pasta."],
+    "nutrition": {"calories": 600, "protein": "30g"}
+  },
+  {
+    "id": 17,
+    "name": "Guacamole",
+    "cuisine": "Mexican",
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "dietary": ["Vegan", "Gluten-Free"],
+    "ingredients": ["avocado", "onion", "tomato", "cilantro", "lime", "chips"],
+    "steps": ["Mash avocado.", "Mix in chopped veggies and lime juice.", "Serve with chips."],
+    "nutrition": {"calories": 350, "protein": "4g"}
+  },
+  {
+    "id": 18,
+    "name": "Salmon with Asparagus",
+    "cuisine": "American",
+    "difficulty": "Medium",
+    "time_minutes": 25,
+    "dietary": ["Gluten-Free"],
+    "ingredients": ["salmon fillet", "asparagus", "lemon", "butter", "garlic"],
+    "steps": ["Season salmon and asparagus.", "Bake or pan-sear with butter and garlic.", "Serve with lemon slices."],
+    "nutrition": {"calories": 500, "protein": "35g"}
+  },
+  {
+    "id": 19,
+    "name": "Egg Salad",
+    "cuisine": "American",
+    "difficulty": "Easy",
+    "time_minutes": 15,
+    "dietary": ["Vegetarian", "Gluten-Free"],
+    "ingredients": ["eggs", "mayonnaise", "mustard", "salt", "pepper", "bread"],
+    "steps": ["Hard boil eggs.", "Peel and mash.", "Mix with mayo and mustard.", "Serve on bread."],
+    "nutrition": {"calories": 300, "protein": "12g"}
+  },
+  {
+    "id": 20,
+    "name": "Fruit Salad",
+    "cuisine": "Global",
+    "difficulty": "Easy",
+    "time_minutes": 10,
+    "dietary": ["Vegan", "Gluten-Free"],
+    "ingredients": ["apple", "orange", "grapes", "strawberry", "melon"],
+    "steps": ["Wash and chop all fruit.", "Mix in a bowl.", "Chill before serving."],
+    "nutrition": {"calories": 150, "protein": "2g"}
+  }
+]
