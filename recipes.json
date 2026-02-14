@@ -6,8 +6,8 @@
     "difficulty": "Easy",
     "time_minutes": 10,
     "dietary": ["Vegetarian"],
-    "ingredients": ["bread", "avocado", "eggs", "salt", "pepper", "lemon"],
-    "steps": ["Toast the bread.", "Mash avocado with lemon juice, salt, and pepper.", "Spread on toast.", "Fry the egg and place on top."],
+    "ingredients": ["2 slices bread", "1 ripe avocado", "2 eggs", "1 pinch salt", "1 pinch black pepper", "1 tsp lemon juice"],
+    "steps": ["Toast the bread slices until golden.", "Mash the avocado in a bowl with lemon juice, salt, and pepper.", "Spread the mash onto the toast.", "Fry the eggs to your liking and place one on each toast slice."],
     "nutrition": {"calories": 350, "protein": "12g"}
   },
   {
@@ -17,8 +17,8 @@
     "difficulty": "Medium",
     "time_minutes": 30,
     "dietary": ["Gluten-Free"],
-    "ingredients": ["chicken breast", "soy sauce", "broccoli", "carrots", "garlic", "rice", "oil"],
-    "steps": ["Cook rice.", "Slice chicken and veggies.", "Stir fry chicken in oil.", "Add veggies and soy sauce.", "Serve over rice."],
+    "ingredients": ["1 lb chicken breast, cubed", "2 tbsp soy sauce", "1 cup broccoli florets", "1 cup sliced carrots", "2 cloves garlic, minced", "1 cup jasmine rice", "1 tbsp vegetable oil"],
+    "steps": ["Cook the rice according to package instructions.", "Heat oil in a wok or large pan over high heat.", "Stir fry chicken until cooked through (about 5-7 mins).", "Add garlic and vegetables; stir fry for another 5 minutes.", "Pour in soy sauce and toss to coat before serving."],
     "nutrition": {"calories": 450, "protein": "30g"}
   },
   {
@@ -28,8 +28,8 @@
     "difficulty": "Easy",
     "time_minutes": 20,
     "dietary": ["Vegetarian"],
-    "ingredients": ["pasta", "tomato sauce", "bell pepper", "onion", "olive oil", "basil"],
-    "steps": ["Boil pasta.", "Sauté onions and peppers in olive oil.", "Add tomato sauce and simmer.", "Mix pasta with sauce and top with basil."],
+    "ingredients": ["8 oz pasta (penne or spaghetti)", "1 cup tomato sauce", "1 bell pepper, diced", "1/2 onion, chopped", "1 tbsp olive oil", "fresh basil leaves"],
+    "steps": ["Boil pasta in salted water until al dente.", "Meanwhile, sauté onions and peppers in olive oil until soft.", "Add tomato sauce to the pan and simmer for 5 minutes.", "Drain pasta and toss with the sauce. Top with fresh basil."],
     "nutrition": {"calories": 400, "protein": "10g"}
   },
   {
@@ -39,8 +39,8 @@
     "difficulty": "Easy",
     "time_minutes": 10,
     "dietary": ["Vegetarian"],
-    "ingredients": ["bread", "cheese", "butter"],
-    "steps": ["Butter one side of each bread slice.", "Place cheese between unbuttered sides.", "Grill until golden brown."],
+    "ingredients": ["4 slices bread", "4 slices cheddar cheese", "2 tbsp butter, softened"],
+    "steps": ["Butter one side of each bread slice.", "Place cheese between the unbuttered sides of the bread.", "Heat a skillet over medium heat.", "Grill sandwiches until golden brown on both sides and cheese is melted."],
     "nutrition": {"calories": 300, "protein": "8g"}
   },
   {
@@ -50,8 +50,8 @@
     "difficulty": "Easy",
     "time_minutes": 15,
     "dietary": ["Vegetarian", "Gluten-Free"],
-    "ingredients": ["cucumber", "tomato", "onion", "feta cheese", "olives", "olive oil"],
-    "steps": ["Chop vegetables.", "Combine in a bowl.", "Top with feta and olives.", "Drizzle with olive oil."],
+    "ingredients": ["1 cucumber, chopped", "2 tomatoes, diced", "1/2 red onion, sliced thin", "1/2 cup feta cheese, crumbled", "1/3 cup kalamata olives", "2 tbsp olive oil"],
+    "steps": ["Chop all vegetables into bite-sized pieces.", "Combine cucumber, tomatoes, onion, and olives in a large bowl.", "Sprinkle feta cheese on top.", "Drizzle with olive oil and toss gently."],
     "nutrition": {"calories": 250, "protein": "6g"}
   },
    {
@@ -61,19 +61,19 @@
     "difficulty": "Easy",
     "time_minutes": 5,
     "dietary": ["Vegetarian", "Vegan"],
-    "ingredients": ["oats", "water", "banana", "berries", "honey"],
-    "steps": ["Boil oats in water.", "Slice banana.", "Top oatmeal with fruit and honey."],
+    "ingredients": ["1/2 cup rolled oats", "1 cup water or milk", "1 banana, sliced", "1/4 cup berries", "1 tsp honey or maple syrup"],
+    "steps": ["Bring water or milk to a boil.", "Add oats and reduce heat; simmer for 5 minutes.", "Pour into a bowl and top with sliced banana and berries.", "Drizzle with honey before eating."],
     "nutrition": {"calories": 200, "protein": "5g"}
   },
   {
     "id": 7,
-    "name": "Tacos",
+    "name": "Beef Tacos",
     "cuisine": "Mexican",
     "difficulty": "Medium",
     "time_minutes": 25,
     "dietary": [],
-    "ingredients": ["ground beef", "taco shells", "lettuce", "cheese", "salsa", "seasoning"],
-    "steps": ["Cook beef with seasoning.", "Warm taco shells.", "Assemble tacos with toppings."],
+    "ingredients": ["1 lb ground beef", "8 taco shells", "1 cup shredded lettuce", "1/2 cup shredded cheddar cheese", "1/2 cup salsa", "1 packet taco seasoning"],
+    "steps": ["Brown the ground beef in a skillet; drain excess fat.", "Stir in taco seasoning and a splash of water; simmer for 3 mins.", "Warm the taco shells in the oven.", "Assemble tacos with beef, lettuce, cheese, and salsa."],
     "nutrition": {"calories": 500, "protein": "20g"}
   },
   {
@@ -83,8 +83,8 @@
     "difficulty": "Easy",
     "time_minutes": 10,
     "dietary": ["Vegetarian", "Gluten-Free"],
-    "ingredients": ["tomato", "mozzarella", "basil", "balsamic glaze", "olive oil"],
-    "steps": ["Slice tomatoes and mozzarella.", "Layer with basil leaves.", "Drizzle with oil and glaze."],
+    "ingredients": ["2 large tomatoes, sliced", "8 oz fresh mozzarella, sliced", "1/2 cup fresh basil leaves", "1 tbsp balsamic glaze", "1 tbsp olive oil"],
+    "steps": ["Arrange tomato and mozzarella slices alternately on a platter.", "Tuck fresh basil leaves between the slices.", "Drizzle with olive oil and balsamic glaze just before serving."],
     "nutrition": {"calories": 300, "protein": "15g"}
   },
   {
@@ -94,19 +94,19 @@
     "difficulty": "Easy",
     "time_minutes": 5,
     "dietary": ["Vegetarian"],
-    "ingredients": ["banana", "milk", "yogurt", "honey"],
-    "steps": ["Blend all ingredients until smooth."],
+    "ingredients": ["1 banana, frozen", "1/2 cup milk", "1/2 cup Greek yogurt", "1 tsp honey"],
+    "steps": ["Peel the banana and place all ingredients in a blender.", "Blend on high until smooth and creamy.", "Pour into a glass and serve immediately."],
     "nutrition": {"calories": 250, "protein": "8g"}
   },
   {
     "id": 10,
-    "name": "Fried Rice",
+    "name": "Vegetable Fried Rice",
     "cuisine": "Asian",
     "difficulty": "Medium",
     "time_minutes": 20,
     "dietary": ["Vegetarian"],
-    "ingredients": ["rice", "egg", "peas", "carrots", "soy sauce", "onion", "oil"],
-    "steps": ["Scramble eggs.", "Sauté onions and veggies.", "Add cooked rice and soy sauce.", "Mix in eggs."],
+    "ingredients": ["2 cups cooked rice (cold)", "2 eggs, beaten", "1/2 cup peas", "1/2 cup diced carrots", "2 tbsp soy sauce", "1 small onion, diced", "1 tbsp sesame oil"],
+    "steps": ["Heat oil in a wok. Scramble the eggs quickly and remove.", "Sauté onion, carrots, and peas until tender.", "Add the cold rice and soy sauce; stir fry on high heat.", "Mix the eggs back in and serve hot."],
     "nutrition": {"calories": 400, "protein": "10g"}
   },
   {
@@ -116,8 +116,8 @@
     "difficulty": "Hard",
     "time_minutes": 45,
     "dietary": ["Vegetarian", "Gluten-Free"],
-    "ingredients": ["arborio rice", "mushrooms", "vegetable broth", "onion", "parmesan", "butter", "white wine"],
-    "steps": ["Sauté onions and mushrooms.", "Toast rice.", "Add wine then broth slowly while stirring.", "Finish with butter and parmesan."],
+    "ingredients": ["1 cup arborio rice", "8 oz mushrooms, sliced", "4 cups vegetable broth", "1 small onion, diced", "1/4 cup parmesan cheese", "2 tbsp butter", "1/2 cup white wine"],
+    "steps": ["Sauté onions and mushrooms in butter until soft.", "Add rice and toast for 1 minute. Add wine and stir until absorbed.", "Add warm broth one ladle at a time, stirring constantly until absorbed.", "Stir in parmesan cheese once rice is creamy."],
     "nutrition": {"calories": 500, "protein": "12g"}
   },
   {
@@ -127,41 +127,41 @@
     "difficulty": "Medium",
     "time_minutes": 40,
     "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["lentils", "carrots", "celery", "onion", "vegetable broth", "cumin"],
-    "steps": ["Sauté veggies.", "Add lentils and broth.", "Simmer until lentils are soft.", "Season with cumin."],
+    "ingredients": ["1 cup dry lentils", "2 carrots, chopped", "2 celery stalks, chopped", "1 onion, diced", "4 cups vegetable broth", "1 tsp cumin"],
+    "steps": ["Sauté onion, carrots, and celery in a pot.", "Add lentils, broth, and cumin.", "Bring to a boil, then reduce heat and simmer for 30 minutes.", "Season with salt and pepper to taste."],
     "nutrition": {"calories": 300, "protein": "18g"}
   },
   {
     "id": 13,
-    "name": "Pancakes",
+    "name": "Classic Pancakes",
     "cuisine": "American",
     "difficulty": "Medium",
     "time_minutes": 20,
     "dietary": ["Vegetarian"],
-    "ingredients": ["flour", "milk", "egg", "baking powder", "sugar", "butter", "syrup"],
-    "steps": ["Mix dry and wet ingredients separately.", "Combine gently.", "Cook on griddle.", "Serve with syrup."],
+    "ingredients": ["1.5 cups flour", "1.25 cups milk", "1 egg", "3 tsp baking powder", "1 tbsp sugar", "1 tbsp melted butter", "maple syrup"],
+    "steps": ["Whisk flour, baking powder, and sugar in a bowl.", "Mix milk, egg, and melted butter in another bowl.", "Combine wet and dry ingredients gently (do not overmix).", "Cook 1/4 cup batter per pancake on a hot griddle."],
     "nutrition": {"calories": 400, "protein": "8g"}
   },
   {
     "id": 14,
-    "name": "Caesar Salad",
+    "name": "Chicken Caesar Salad",
     "cuisine": "American",
     "difficulty": "Medium",
     "time_minutes": 15,
     "dietary": [],
-    "ingredients": ["romaine lettuce", "croutons", "parmesan", "caesar dressing", "chicken breast"],
-    "steps": ["Cook chicken.", "Chop lettuce.", "Toss with dressing, croutons, and cheese.", "Top with chicken."],
+    "ingredients": ["1 head romaine lettuce", "1 cup croutons", "1/2 cup parmesan shavings", "1/3 cup caesar dressing", "1 grilled chicken breast, sliced"],
+    "steps": ["Chop the lettuce into bite-sized pieces.", "Toss lettuce with the Caesar dressing.", "Top with grilled chicken slices, croutons, and parmesan.", "Serve immediately."],
     "nutrition": {"calories": 450, "protein": "25g"}
   },
   {
     "id": 15,
-    "name": "Hummus & Veggies",
+    "name": "Hummus & Veggie Platter",
     "cuisine": "Mediterranean",
     "difficulty": "Easy",
     "time_minutes": 10,
     "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["chickpeas", "tahini", "lemon", "garlic", "olive oil", "cucumber", "carrot"],
-    "steps": ["Blend chickpeas, tahini, lemon, garlic, and oil.", "Slice veggies.", "Serve dip with veggies."],
+    "ingredients": ["1 can (15oz) chickpeas, drained", "1/4 cup tahini", "2 tbsp lemon juice", "1 clove garlic", "2 tbsp olive oil", "1 cucumber, sliced", "2 carrots, cut into sticks"],
+    "steps": ["Blend chickpeas, tahini, lemon juice, garlic, and olive oil until smooth.", "Transfer hummus to a serving bowl.", "Arrange cucumber and carrot sticks on a plate for dipping."],
     "nutrition": {"calories": 300, "protein": "10g"}
   },
   {
@@ -171,52 +171,52 @@
     "difficulty": "Medium",
     "time_minutes": 45,
     "dietary": [],
-    "ingredients": ["spaghetti", "ground beef", "tomato sauce", "onion", "garlic", "herbs"],
-    "steps": ["Cook pasta.", "Brown beef with onion and garlic.", "Add sauce and herbs.", "Simmer and serve over pasta."],
+    "ingredients": ["12 oz spaghetti", "1 lb ground beef", "2 cups tomato sauce", "1 onion, diced", "2 cloves garlic, minced", "1 tsp dried herbs (oregano/basil)"],
+    "steps": ["Boil spaghetti according to package directions.", "In a pan, brown the beef with onion and garlic.", "Stir in tomato sauce and herbs; simmer for 15 minutes.", "Serve sauce over drained pasta."],
     "nutrition": {"calories": 600, "protein": "30g"}
   },
   {
     "id": 17,
-    "name": "Guacamole",
+    "name": "Homemade Guacamole",
     "cuisine": "Mexican",
     "difficulty": "Easy",
     "time_minutes": 10,
     "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["avocado", "onion", "tomato", "cilantro", "lime", "chips"],
-    "steps": ["Mash avocado.", "Mix in chopped veggies and lime juice.", "Serve with chips."],
+    "ingredients": ["3 ripe avocados", "1/2 onion, finely chopped", "1 tomato, diced", "1/4 cup chopped cilantro", "1 lime, juiced", "tortilla chips"],
+    "steps": ["Slice avocados in half, remove pit, and scoop into a bowl.", "Mash with a fork to desired consistency.", "Stir in onion, tomato, cilantro, and lime juice.", "Serve with tortilla chips."],
     "nutrition": {"calories": 350, "protein": "4g"}
   },
   {
     "id": 18,
-    "name": "Salmon with Asparagus",
+    "name": "Baked Salmon with Asparagus",
     "cuisine": "American",
     "difficulty": "Medium",
     "time_minutes": 25,
     "dietary": ["Gluten-Free"],
-    "ingredients": ["salmon fillet", "asparagus", "lemon", "butter", "garlic"],
-    "steps": ["Season salmon and asparagus.", "Bake or pan-sear with butter and garlic.", "Serve with lemon slices."],
+    "ingredients": ["2 salmon fillets", "1 bunch asparagus, trimmed", "1 lemon, sliced", "2 tbsp butter", "2 cloves garlic, minced"],
+    "steps": ["Preheat oven to 400°F (200°C).", "Place salmon and asparagus on a baking sheet.", "Top with butter, garlic, and lemon slices.", "Bake for 12-15 minutes until salmon flakes easily."],
     "nutrition": {"calories": 500, "protein": "35g"}
   },
   {
     "id": 19,
-    "name": "Egg Salad",
+    "name": "Classic Egg Salad",
     "cuisine": "American",
     "difficulty": "Easy",
     "time_minutes": 15,
     "dietary": ["Vegetarian", "Gluten-Free"],
-    "ingredients": ["eggs", "mayonnaise", "mustard", "salt", "pepper", "bread"],
-    "steps": ["Hard boil eggs.", "Peel and mash.", "Mix with mayo and mustard.", "Serve on bread."],
+    "ingredients": ["6 hard-boiled eggs, peeled", "1/4 cup mayonnaise", "1 tsp mustard", "1 pinch salt", "1 pinch paprika", "bread slices (optional)"],
+    "steps": ["Chop the hard-boiled eggs.", "Mix in a bowl with mayonnaise, mustard, and salt.", "Sprinkle with paprika.", "Serve on bread or over lettuce."],
     "nutrition": {"calories": 300, "protein": "12g"}
   },
   {
     "id": 20,
-    "name": "Fruit Salad",
+    "name": "Fresh Fruit Salad",
     "cuisine": "Global",
     "difficulty": "Easy",
     "time_minutes": 10,
     "dietary": ["Vegan", "Gluten-Free"],
-    "ingredients": ["apple", "orange", "grapes", "strawberry", "melon"],
-    "steps": ["Wash and chop all fruit.", "Mix in a bowl.", "Chill before serving."],
+    "ingredients": ["1 apple, chopped", "1 orange, peeled and segmented", "1 cup grapes", "1 cup strawberries, halved", "1/2 cup melon cubes"],
+    "steps": ["Wash all fruit thoroughly.", "Chop fruit into uniform pieces.", "Combine in a large bowl and toss gently.", "Chill for 30 minutes before serving."],
     "nutrition": {"calories": 150, "protein": "2g"}
   }
 ]
